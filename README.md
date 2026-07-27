@@ -1,5 +1,5 @@
-#Projeto criado para ter um currículo online
+# Projeto criado para ter um currículo online
 
-##Não foram adicionadas pasta de assets ou imgs pela simplicidade do projeto inicial
+## Não foram adicionadas pasta de assets ou imgs pela simplicidade do projeto inicial
 
 ### versão 0.1
